@@ -4,8 +4,8 @@
 </div>
 Label-Color
 https://img.shields.io/badge/LinkedIn-blue
-logo={your social network icon name}
-logoColor={color of the icon}
+logo={LinkedIn}
+logoColor={blue}
 https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
 https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
 <div id="badges">
